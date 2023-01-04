@@ -1,2 +1,2 @@
 # bavaan-odoo
-Bavaan Odoo apps from Odoo version 16.0.0
+Bavaan Odoo apps and tools for Odoo version 16.0.0
